@@ -1,6 +1,6 @@
 # All Restaurants in Myrtle Beach-Conway-North Myrtle Beach (Metro), South Carolina, US
 
-> Free BeamStation sample export with 114 rows and masked direct-contact fields.
+> Free BeamStation sample export with 112 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `886685` |
 | Location | Myrtle Beach-Conway-North Myrtle Beach, SC |
 | Category | Restaurants |
-| Full dataset size | 1,143 records |
-| Free sample size | 114 records (9.97%) |
-| Last export | 2026-04-09T13:29:56.106447+00:00 |
+| Full dataset size | 1,127 records |
+| Free sample size | 112 records (9.94%) |
+| Last export | 2026-04-16T13:48:34.761261+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-myrtle-beach-conway-north-myrtle-beach-metro-south-carolina-us-sample-886685/releases/download/sample-latest/beamstation_886685_restaurants-us-myrtlebeachconwaynorthmyrtlebeachsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
