@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f7e80a4-f8e8-4a89-a158-455842f9ecf0",
+  "export_job_id": "b80784b7-5f38-467a-b98b-2e06f8f850bb",
   "id_short": 886685,
-  "published_at": "2026-04-19T19:25:52Z",
+  "published_at": "2026-04-23T19:05:24Z",
   "repo_name": "all-restaurants-in-myrtle-beach-conway-north-myrtle-beach-metro-south-carolina-us-sample-886685",
   "sample_asset_name": "beamstation_886685_restaurants-us-myrtlebeachconwaynorthmyrtlebeachsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/886685/beamstation_886685_restaurants-us-myrtlebeachconwaynorthmyrtlebeachsc_SAMPLE_DIST.csv",
-  "sample_records": 112,
-  "sample_sha256": "818c0c39e97d21fc44ff412529b12b9f08168e5e63bb8af060b2cebcfebd35c9",
-  "sample_size_bytes": 442576,
-  "total_records": 1127
+  "sample_records": 68,
+  "sample_sha256": "e4c8997b49ee928838671a66c17d059e23aa7249598d623d631c0a9f60383f75",
+  "sample_size_bytes": 293814,
+  "total_records": 682
 }
