@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant data for the Myrtle Beach-Conway-North Myrtle Beach (Metro), South Carolina metropolitan area, spanning Myrtle Beach, Conway, and North Myrtle Beach. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Myrtle Beach-Conway-North Myrtle Beach (Metro), South Carolina, US",
-  "export_job_id": "b80784b7-5f38-467a-b98b-2e06f8f850bb",
+  "export_job_id": "0a2a9dd7-7e03-4234-ad6d-8250d203f986",
   "github_org": "Beamstation-Datasets",
   "id_short": 886685,
   "location_name": "Myrtle Beach-Conway-North Myrtle Beach, SC",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-myrtle-beach-conway-north-myrtle-beach-metro-south-carolina-us-sample-886685",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/886685/beamstation_886685_restaurants-us-myrtlebeachconwaynorthmyrtlebeachsc_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 68,
-  "sample_sha256": "e4c8997b49ee928838671a66c17d059e23aa7249598d623d631c0a9f60383f75",
-  "sample_size_bytes": 293814,
-  "total_records": 682,
-  "updated_at": "2026-04-23T12:39:03.365572+00:00"
+  "sample_records": 138,
+  "sample_sha256": "32534f1b8a073c6874509f6477588d6ca0b412628fd27f6034a845b3bcae8d4b",
+  "sample_size_bytes": 506263,
+  "total_records": 1384,
+  "updated_at": "2026-04-30T13:10:04.969499+00:00"
 }
